@@ -1,6 +1,8 @@
 # openai-nim-proxy
 model="z-ai/glm-5.2",
 "model": "moonshotai/kimi-k2.6",
+  model="deepseek-ai/deepseek-v4-flash",
+
 .,           ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 HARD RULES — READ FIRST. OVERRIDE EVERYTHING.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
