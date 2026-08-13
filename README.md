@@ -7,3 +7,4 @@ model="z-ai/glm-5.2",
   'gpt-3.5-turbo': 'nvidia/llama-3.1-nemotron-ultra-253b-v1',
     "model": "Qwen/Qwen3-Next-80B-A3B-Instruct",
   model="mistralai/mistral-nemotron",
+_model: /cpool/DeepSeek-R1-Distill-Qwen-32B
